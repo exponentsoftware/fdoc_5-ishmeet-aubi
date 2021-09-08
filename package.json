@@ -1,5 +1,5 @@
 {
-    "name": "fdoc_5-saiie",
+    "name": "fdoc_5-",
     "version": "1.0.0",
     "description": "1. Use the countries API to fetch data about countries. (5 pt)",
     "main": "country.js",
@@ -8,15 +8,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/exponentsoftware/fdoc_5-shubhrabiswal.git"
+      "url": "git+https://github.com/exponentsoftware/fdoc_5-ishmeet-aubi.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/exponentsoftware/fdoc_5-shubhrabiswal/issues"
+      "url": "https://github.com/exponentsoftware/fdoc_5-ishmeet-aubi/issues"
     },
-    "homepage": "https://github.com/exponentsoftware/fdoc_5-shubhrabiswal#readme",
+    "homepage": "https://github.com/exponentsoftware/fdoc_5-ishmeet-aubi#readme",
     "dependencies": {
       "node-fetch": "^2.6.1"
     }
